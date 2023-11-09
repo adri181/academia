@@ -1,0 +1,96 @@
+*
+{
+    margin: 0 auto;
+    padding: 0;
+}
+
+body
+{
+    background-color: #262626;
+}
+
+header
+{
+    display: flex;
+    background-color: #FAD824;
+    text-align: center;
+}
+
+.menu
+{
+    padding: 10px; 
+    margin: 10px;
+    font-size: 20px;
+    padding-left: 30px;
+}
+
+.cores
+{
+    background-color: #FAD824;
+    padding: 30px;
+}
+
+h1
+{
+    margin: 10px;
+}
+
+p
+{
+    color: black;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2
+{
+    margin: 10px;
+    color: white;
+    padding: 10px;
+}
+
+footer
+{
+    background-color: #FAD824;
+    text-align: center;
+    padding: 15px;
+}
+
+#banner
+{
+    width: 100%;
+}
+
+#banner img
+{
+    width: 100%;
+}
+
+.class-container
+{
+    text-align: center;
+    background-color: #FAD824;
+    padding: 25px;
+    border-radius: 1px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    margin: auto;
+}
+
+.academia
+{
+    display: flex;
+    flex-direction: row;
+    gap: 0 auto;
+}
+
+.botao a
+{
+    margin: 650px;
+    border-radius: 10px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    background-color: #FAD824;
+    color: black;
+    padding: 15px;
+    text-decoration: none;
+}
+

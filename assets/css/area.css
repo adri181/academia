@@ -1,0 +1,42 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.menu
+{
+    padding: 10px; 
+    margin: 10px;
+    font-size: 20px;
+    padding-left: 30px;
+}
+
+header
+{
+    display: flex;
+    background-color: #FAD824;
+    text-align: center;
+}
+
+footer
+{
+    background-color: #FAD824;
+    text-align: center;
+    padding: 15px;
+}
+
+body
+{
+    background-color: #262626;
+}
+
+h1
+{
+    color: white;
+}
+
+form
+{
+    color: white;
+}
