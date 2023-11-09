@@ -17,7 +17,7 @@
        <h2>Área restrita</h2>
 
     
-   <form action="" method="GET">
+   <form action="" method="POST">
        <label for="email">E-mail:</label><br>
        <input type="email" name="email" placeholder="Informe seu e-mail de cadastro"><br><br>
        <label for="senha">Senha:</label><br>
